@@ -1,0 +1,290 @@
+{
+  "floaters": [
+    {
+      "gif_path": "D:\\개인문서\\gifFloater\\gifs\\presets/hachiware/type.gif",
+      "x": 1311,
+      "y": 943,
+      "display_size": 84,
+      "opacity": 1.0,
+      "speed": 1.0,
+      "flip_h": false,
+      "click_through": false,
+      "topmost": true,
+      "paused": false,
+      "name": "하치와레",
+      "personality": "diligent",
+      "auto_state_gif": true,
+      "bubble_on": true,
+      "fixed_pos": false,
+      "wander": true,
+      "scene_gifs": {
+        "rest": "presets/hachiware/rest.gif",
+        "wake": "presets/hachiware/wake.gif",
+        "type": "presets/hachiware/type.gif",
+        "lunch": "presets/hachiware/lunch.gif",
+        "enter": "presets/hachiware/enter.gif",
+        "back": "presets/hachiware/back.gif",
+        "tired": "presets/hachiware/rest.gif",
+        "hold": "presets/hachiware/hold.gif"
+      },
+      "scene_texts": {
+        "wake": "어떻게든 될 거야! 출근!",
+        "lunch": "맛있게 점심 먹자!",
+        "enter": "해냈다! 퇴근이다!",
+        "back": "조금만 더… 야근 중!",
+        "tired": "으음… 집에 가고 싶어…",
+        "hold": "어떻게든 될 거야!"
+      },
+      "scene_on": {
+        "wake": true,
+        "lunch": true,
+        "back": true,
+        "tired": true,
+        "hold": true
+      },
+      "preset": "hachiware"
+    },
+    {
+      "name": "세이렌",
+      "personality": "laidback",
+      "gif_path": "D:\\개인문서\\gifFloater\\gifs\\presets/siren/sing.gif",
+      "x": 850,
+      "y": 944,
+      "display_size": 84,
+      "opacity": 1.0,
+      "speed": 1.0,
+      "flip_h": false,
+      "click_through": false,
+      "topmost": true,
+      "paused": false,
+      "bubble_on": true,
+      "fixed_pos": false,
+      "wander": true,
+      "auto_state_gif": true,
+      "scene_gifs": {
+        "rest": "presets/siren/sleep.gif",
+        "wake": "presets/siren/wave.gif",
+        "type": "presets/siren/sing.gif",
+        "lunch": "presets/siren/heart.gif",
+        "enter": "presets/siren/heart.gif",
+        "back": "presets/siren/angry.gif",
+        "tired": "presets/siren/sleep.gif",
+        "hold": "presets/siren/wave.gif"
+      },
+      "scene_texts": {
+        "wake": "노래하며 출근하자~",
+        "lunch": "점심시간이야~",
+        "enter": "신나는 퇴근이야~",
+        "back": "야근은 안 돼!",
+        "tired": "이제 자고 싶어…",
+        "hold": "내 노래 들을래?"
+      },
+      "scene_on": {
+        "wake": true,
+        "lunch": true,
+        "back": true,
+        "tired": true,
+        "hold": true
+      },
+      "preset": "siren"
+    },
+    {
+      "name": "모몽가",
+      "personality": "tsundere",
+      "gif_path": "D:\\개인문서\\gifFloater\\gifs\\presets/momonga/happy.gif",
+      "x": 956,
+      "y": 944,
+      "display_size": 84,
+      "opacity": 1.0,
+      "speed": 1.0,
+      "flip_h": false,
+      "click_through": false,
+      "topmost": true,
+      "paused": false,
+      "bubble_on": true,
+      "fixed_pos": false,
+      "wander": true,
+      "auto_state_gif": true,
+      "scene_gifs": {
+        "rest": "presets/momonga/peek.gif",
+        "wake": "presets/momonga/peek.gif",
+        "type": "presets/momonga/happy.gif",
+        "lunch": "presets/momonga/happy.gif",
+        "enter": "presets/momonga/happy.gif",
+        "back": "presets/momonga/cry.gif",
+        "tired": "presets/momonga/cry.gif",
+        "hold": "presets/momonga/happy.gif"
+      },
+      "scene_texts": {
+        "wake": "빨리 출근해! 어서!",
+        "lunch": "맛있는 거 내놔! 점심!",
+        "enter": "칭찬해줘! 퇴근이야!",
+        "back": "야근 싫어어어…!",
+        "tired": "집에 보내달라고…!",
+        "hold": "흥! 귀엽다고 해줘!"
+      },
+      "scene_on": {
+        "wake": true,
+        "lunch": true,
+        "back": true,
+        "tired": true,
+        "hold": true
+      },
+      "preset": "momonga"
+    },
+    {
+      "name": "우사기",
+      "personality": "energetic",
+      "gif_path": "D:\\개인문서\\gifFloater\\gifs\\presets/usagi/type.gif",
+      "x": 1714,
+      "y": 944,
+      "display_size": 84,
+      "opacity": 1.0,
+      "speed": 1.0,
+      "flip_h": false,
+      "click_through": false,
+      "topmost": true,
+      "paused": false,
+      "bubble_on": true,
+      "fixed_pos": false,
+      "wander": true,
+      "auto_state_gif": true,
+      "scene_gifs": {
+        "rest": "presets/usagi/rest.gif",
+        "wake": "presets/usagi/wake.gif",
+        "type": "presets/usagi/type.gif",
+        "lunch": "presets/usagi/lunch.gif",
+        "enter": "presets/usagi/enter.gif",
+        "back": "presets/usagi/back.gif",
+        "tired": "presets/usagi/tired.gif",
+        "hold": "presets/usagi/hold.gif"
+      },
+      "scene_texts": {
+        "wake": "우라! 벌써 출근이야!",
+        "lunch": "야하! 점심시간!",
+        "enter": "야하!! 퇴근이다!!",
+        "back": "하아? 야근 중…",
+        "tired": "우라… 집에 가자…",
+        "hold": "야하! 힘내!"
+      },
+      "scene_on": {
+        "wake": true,
+        "lunch": true,
+        "back": true,
+        "tired": true,
+        "hold": true
+      },
+      "preset": "usagi"
+    },
+    {
+      "name": "치이카와",
+      "personality": "warm",
+      "gif_path": "D:\\개인문서\\gifFloater\\gifs\\presets/chiikawa/type.gif",
+      "x": 1590,
+      "y": 943,
+      "display_size": 84,
+      "opacity": 1.0,
+      "speed": 1.0,
+      "flip_h": false,
+      "click_through": false,
+      "topmost": true,
+      "paused": false,
+      "bubble_on": true,
+      "fixed_pos": false,
+      "wander": true,
+      "auto_state_gif": true,
+      "scene_gifs": {
+        "rest": "presets/chiikawa/rest.gif",
+        "wake": "presets/chiikawa/wake.gif",
+        "type": "presets/chiikawa/type.gif",
+        "lunch": "presets/chiikawa/lunch.gif",
+        "enter": "presets/chiikawa/enter.gif",
+        "back": "presets/chiikawa/back.gif",
+        "tired": "presets/chiikawa/tired.gif",
+        "hold": "presets/chiikawa/hold.gif"
+      },
+      "scene_texts": {
+        "wake": "으응… 벌써 출근이네",
+        "lunch": "점심시간이야!",
+        "enter": "와아! 퇴근이다!",
+        "back": "으앙… 야근 중…",
+        "tired": "집에 가고 싶어…",
+        "hold": "으응, 힘내!"
+      },
+      "scene_on": {
+        "wake": true,
+        "lunch": true,
+        "back": true,
+        "tired": true,
+        "hold": true
+      },
+      "preset": "chiikawa"
+    },
+    {
+      "name": "단짝 콤비",
+      "personality": "warm",
+      "gif_path": "D:\\개인문서\\gifFloater\\gifs\\presets/duo/type.gif",
+      "x": 490,
+      "y": 930,
+      "display_size": 116,
+      "opacity": 1.0,
+      "speed": 1.0,
+      "flip_h": false,
+      "click_through": false,
+      "topmost": true,
+      "paused": false,
+      "bubble_on": true,
+      "fixed_pos": false,
+      "wander": true,
+      "auto_state_gif": true,
+      "scene_gifs": {
+        "rest": "presets/duo/rest.gif",
+        "wake": "presets/duo/wake.gif",
+        "type": "presets/duo/type.gif",
+        "lunch": "presets/duo/lunch.gif",
+        "enter": "presets/duo/enter.gif",
+        "back": "presets/duo/back.gif",
+        "tired": "presets/duo/tired.gif",
+        "hold": "presets/duo/hold.gif"
+      },
+      "scene_texts": {
+        "wake": "같이 출근하자!",
+        "lunch": "같이 맛점하자!",
+        "enter": "같이 퇴근이다!",
+        "back": "둘이서 버텨보자!",
+        "tired": "얼른 같이 집에 가자…",
+        "hold": "우리 둘이 응원해!"
+      },
+      "scene_on": {
+        "wake": true,
+        "lunch": true,
+        "back": true,
+        "tired": true,
+        "hold": true
+      },
+      "preset": "duo"
+    }
+  ],
+  "hidden_all": false,
+  "work_schedule": {
+    "enabled": true,
+    "start_time": "08:00",
+    "end_time": "17:00",
+    "lunch_on": true,
+    "lunch_start": "12:00",
+    "lunch_end": "13:00",
+    "work_days": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "stretch_interval_min": 50,
+    "random_chat_enabled": true,
+    "always_show_bubble": true,
+    "bubble_time_format": "hm",
+    "auto_state_gif": true,
+    "forced_state": "auto"
+  }
+}

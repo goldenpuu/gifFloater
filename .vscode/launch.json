@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: 퇴근 친구 실행",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/python/gif_floater.py",
+      "console": "integratedTerminal",
+      "env": {
+        "PYTHONUTF8": "1",
+        "PYTHONIOENCODING": "utf-8"
+      }
+    }
+  ]
+}
